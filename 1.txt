@@ -1,0 +1,2 @@
+gst/rtsp-sink/gstrtspclientsink.c
+gst/rtsp-sink/plugin.c
